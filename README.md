@@ -1,1 +1,8 @@
-# AI_Tools_Final_Project
+# AI Tools Final Project
+- Dominic Palermo
+- Troy Wypishinski-Prechter
+- Malcolm Johnson
+
+
+
+## Citations
